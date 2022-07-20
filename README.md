@@ -29,3 +29,6 @@ Código en desarrollo de la aplicación de crud en php para realizar las pruebas
 	Visual Studio Code
 	Xammp Apache + Mysql
 	
+	![image](https://user-images.githubusercontent.com/63615382/179871751-fc112fc4-f830-4dad-ad25-2285270fcde0.png)
+
+	
