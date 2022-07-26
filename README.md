@@ -9,7 +9,7 @@ Código en desarrollo de la aplicación de crud en php para realizar las pruebas
 
 # Requerimientos
 	Formulario agregar usuario :
-		- formulario con los campos de nombre , apellido, telefono, direccion, correo, doc identidad, ano de nacimiento 
+		- formulario con los campos de nombre , apellido, correo, doc identidad
 		- si algun campo esta vacio no debe registrar
 		- Los campos que sean de texto no deben aceptar numeros y viceversa.
 		- ningun doc de identidad puede estar repetido
@@ -21,7 +21,7 @@ Código en desarrollo de la aplicación de crud en php para realizar las pruebas
 		- debe tener un boton que redirija a agregar nuevo usuario
 		
 	Formulario de editar:
-		- formulario con los campos de nombre , apellido, telefono, direccion, correo, doc identidad, ano de nacimiento 
+		- formulario con los campos de nombre , apellido, correo, doc identidad 
 		- si algun campo esta vacio no debe registrar
 		- Los campos que sean de texto no deben aceptar numeros 
 		- el documento de identidad no puede ser editado
